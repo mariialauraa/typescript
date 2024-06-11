@@ -1,0 +1,1 @@
+let prices: number[] = [10, 20, 40, 60]
