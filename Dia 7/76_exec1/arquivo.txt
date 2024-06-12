@@ -1,0 +1,5 @@
+Modificando o TypeScript compiler
+
+Inicia o processo de TypeScript:
+
+tsc --init  -->  tsconfig.json
